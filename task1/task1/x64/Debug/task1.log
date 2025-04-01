@@ -1,0 +1,7 @@
+﻿  task1.cpp
+C:\Users\User\Desktop\lab1_oop\task1\task1\task1.cpp(9,19): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\User\Desktop\lab1_oop\task1\task1\task1.cpp(9,19): warning C4244:         with
+C:\Users\User\Desktop\lab1_oop\task1\task1\task1.cpp(9,19): warning C4244:         [
+C:\Users\User\Desktop\lab1_oop\task1\task1\task1.cpp(9,19): warning C4244:             _Ty=int
+C:\Users\User\Desktop\lab1_oop\task1\task1\task1.cpp(9,19): warning C4244:         ]
+  task1.vcxproj -> C:\Users\User\Desktop\lab1_oop\task1\x64\Debug\task1.exe
